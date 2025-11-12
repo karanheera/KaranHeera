@@ -1,64 +1,54 @@
-# Hi there! 👋
-
-Welcome to my GitHub! I am a **Generative AI Enthusiast** with a deep passion for creating, exploring, and implementing cutting-edge AI technologies to solve real-world problems. Here's a little more about me:
-
----
-
-## 🚀 About Me
-
-I specialize in:
-- **Text-to-Text Generation**: Creating advanced natural language generation systems using NLP techniques.
-- **Text-to-Image and Video Generation**: Crafting models and workflows leveraging state-of-the-art diffusion models and other generative techniques.
-
-### What drives me?
-✨ **Curiosity**: I'm endlessly fascinated by how generative AI works and its potential to transform industries.
-
-✨ **Impact**: I aim to solve real-world problems by applying innovative AI solutions, bridging the gap between cutting-edge research and practical applications.
+# 👋 Hi, I'm [Your Name]
+### Data Annotation & Computer Vision Specialist  
+**Image | Video | Text | Audio | Large-Scale Dataset Management | Multilingual (EN | HI | PA)**  
 
 ---
 
-## 🔧 Skills & Tools
-
-### 🧠 Core AI Expertise
-- **Natural Language Processing (NLP)**: Text generation, sentiment analysis, summarization.
-- **Diffusion Models**: Applications in text-to-image and video synthesis.
-- **Deep Learning Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers.
-
-### 🛠️ Technical Proficiencies
-- **Programming**: Python, SQL.
-- **Model Deployment**: Streamlit, FastAPI, Docker.
-- **Data Visualization**: Matplotlib, Seaborn, Plotly.
-- **Cloud Platforms**: AWS, Google Cloud, Azure.
+## 🧠 About Me
+I’m a **Data Annotation and AI Training Specialist** focused on preparing **high-quality datasets for Computer Vision, NLP, and Audio AI models**.  
+With a results-driven approach and a passion for data accuracy, I work on **manual and AI-assisted annotation**, **human-in-the-loop QA**, and **dataset validation** — helping AI systems learn with precision and scale.
 
 ---
 
-## 🌟 Featured Projects
+## 🧩 What I Do
 
-1. **Text-to-Image Generator**
-   - Built a pipeline using diffusion models to generate high-quality images from text prompts.
-   - (Coming Soon)
+### 🔹 Computer Vision Annotation  
+- Image & Video Labeling  
+- Object Detection | Bounding Boxes | Polygon & Semantic Segmentation  
+- Instance Segmentation | Keypoint Annotation | Object Tracking  
+- Metadata Tagging | Dataset QA & Validation  
 
-2. **AI-Powered Content Summarizer**
-   - Developed an NLP-based tool for summarizing long-form articles with high accuracy.
-   - (Coming Soon)
+### 🔹 Text & Audio Annotation  
+- Text Labeling | Named Entity Recognition (NER) | Sentiment Classification  
+- Speech-to-Text | Emotion Labeling | Speaker Diarization  
 
-3. **Generative AI for Video Synthesis**
-   - Experimented with creating short videos from textual descriptions using generative AI frameworks.
-   - (Coming Soon)
-
----
-
-## 🌱 Currently Exploring
-
-- Advancing my knowledge in **video generation techniques**.
-- Exploring **foundation models** like GPT-4, Stable Diffusion, and DALL·E.
-- Improving deployment workflows for generative AI applications.
+### 🔹 Data Management & Workflow Optimization  
+- Large-Scale Dataset Handling (**1M+ items**)  
+- Metadata Preparation | Quality Assurance | Process Optimization  
+- Team Training & Coordination | Multilingual Data Handling  
 
 ---
 
-## 🤝 Let’s Connect
+## ⚙️ Tools & Platforms
+**Label Studio** | **CVAT** | **Roboflow Annotate** | **H2O Label Genie** | **SuperAnnotate**  
+**FL Studio** | **Audacity** | **Excel** | **Google Sheets**
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/karanheera/)
+---
 
+## 🌍 Languages
+**English** | **Hindi** | **Punjabi**
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss all things Generative AI!
+---
+
+## 🚀 What Drives Me
+I’m passionate about **bridging the gap between raw data and intelligent AI systems**, ensuring that every dataset I touch is **accurate, consistent, and ready for scalable AI training**.  
+My mission: help AI models **see, hear, and understand** the world more effectively — one dataset at a time.
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/karanheera)  
+
+---
+
+⭐️ *“Quality data is the foundation of intelligent AI.”*

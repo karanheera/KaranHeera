@@ -6,7 +6,7 @@
 
 ## About Me
 I’m a **Data Annotation and AI Training Specialist** focused on preparing **high-quality datasets for Computer Vision, NLP, and Audio AI models**.  
-With a results-driven approach and a passion for data accuracy, I work on **manual and AI-assisted annotation**, **human-in-the-loop QA**, and **dataset validation** — helping AI systems learn with precision and scale.
+With a results-driven approach and a passion for data accuracy, I work on **manual and AI-assisted annotation**, **human-in-the-loop QA**, and **dataset validation**, helping AI systems learn with precision and scale.
 
 ---
 
@@ -23,7 +23,7 @@ With a results-driven approach and a passion for data accuracy, I work on **manu
 - Speech-to-Text | Emotion Labeling | Speaker Diarization  
 
 ### Data Management & Workflow Optimization  
-- Large-Scale Dataset Handling (**1M+ items**)  
+- Large-Scale Dataset Handling
 - Metadata Preparation | Quality Assurance | Process Optimization  
 - Team Training & Coordination | Multilingual Data Handling  
 
@@ -42,7 +42,7 @@ With a results-driven approach and a passion for data accuracy, I work on **manu
 
 ## What Drives Me
 I’m passionate about **bridging the gap between raw data and intelligent AI systems**, ensuring that every dataset I touch is **accurate, consistent, and ready for scalable AI training**.  
-My mission: help AI models **see, hear, and understand** the world more effectively — one dataset at a time.
+My mission: help AI models **see, hear, and understand** the world more effectively, one dataset at a time.
 
 ---
 

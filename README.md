@@ -1,5 +1,5 @@
 # Hi, I'm Karan Heera
-### Data Annotation & Computer Vision Specialist  
+### AI Data Annotation & Computer Vision Specialist  
 **Image | Video | Text | Audio | Large-Scale Dataset Management | Multilingual (EN | HI | PA)**  
 
 ---

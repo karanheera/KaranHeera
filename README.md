@@ -46,13 +46,6 @@ My experience spans **LLM evaluation, multimodal AI, speech systems, computer vi
 ### APIs & Cloud
 `REST APIs` `AWS` `Azure` `Google Cloud`
 
-### AI & Data Tools
-`Label Studio`  
-`CVAT`  
-`Roboflow Annotate`  
-`SuperAnnotate`  
-`H2O Label Genie`
-
 ### Automation & Productivity
 `n8n`  
 `Excel`  

@@ -75,9 +75,9 @@ My experience spans **LLM evaluation, multimodal AI, speech systems, computer vi
 
 ## Languages
 
-- 🇬🇧 English — Fluent
-- 🇮🇳 Hindi — Fluent
-- 🇮🇳 Punjabi — Native
+- English — Fluent
+- Hindi — Fluent
+- Punjabi — Native
 
 ---
 

@@ -1,48 +1,101 @@
 # Hi, I'm Karan Heera
-### AI Data Annotation & Computer Vision Specialist  
-**Image | Video | Text | Audio | Large-Scale Dataset Management | Multilingual (EN | HI | PA)**  
+# I'm an AI Data & Evaluation Specialist
+
+### Building better AI systems through data quality, evaluation, and human feedback
+
+I work at the intersection of **Artificial Intelligence, Data Quality, and Human-in-the-Loop AI workflows** — helping improve AI models through structured evaluation, annotation, validation, and quality assurance.
+
+My experience spans **LLM evaluation, multimodal AI, speech systems, computer vision, and large-scale dataset operations**. I enjoy turning complex AI outputs into actionable insights that help models become more accurate, reliable, and useful.
 
 ---
 
-## About Me
-I’m a **Data Annotation and AI Training Specialist** focused on preparing **high-quality datasets for Computer Vision, NLP, and Audio AI models**.  
-With a results-driven approach and a passion for data accuracy, I work on **manual and AI-assisted annotation**, **human-in-the-loop QA**, and **dataset validation**, helping AI systems learn with precision and scale.
+## What I Work On
+
+### AI Model Evaluation
+- LLM Response Evaluation
+- Preference Ranking & A/B Comparison
+- Reasoning Quality Assessment
+- Hallucination Detection
+- Instruction Following Evaluation
+- AI Safety & Content Quality Review
+- Human Feedback (RLHF-style workflows)
+
+### Multimodal AI
+- Text, Image, Audio & Video Evaluation
+- Vision-Language Tasks
+- Video Understanding
+- Temporal Reasoning
+- AI-Generated Content Assessment
+- Speech & ASR Quality Evaluation
+
+### Data Quality & AI Operations
+- Dataset QA & Validation
+- Annotation Quality Review
+- Data Consistency Checks
+- Large-Scale Dataset Management
+- Annotation Guideline Development
+- Workflow Optimization
 
 ---
 
-## What I Do
+## Technical Skills
 
-### Computer Vision Annotation  
-- Image & Video Labeling  
-- Object Detection | Bounding Boxes | Polygon & Semantic Segmentation  
-- Instance Segmentation | Keypoint Annotation | Object Tracking  
-- Metadata Tagging | Dataset QA & Validation  
+### Languages & Data
+`Python` `SQL` `JavaScript` `JSON`
 
-### Text & Audio Annotation  
-- Text Labeling | Named Entity Recognition (NER) | Sentiment Classification  
-- Speech-to-Text | Emotion Labeling | Speaker Diarization  
+### APIs & Cloud
+`REST APIs` `AWS` `Azure` `Google Cloud`
 
-### Data Management & Workflow Optimization  
-- Large-Scale Dataset Handling
-- Metadata Preparation | Quality Assurance | Process Optimization  
-- Team Training & Coordination | Multilingual Data Handling  
+### AI & Data Tools
+`Label Studio`  
+`CVAT`  
+`Roboflow Annotate`  
+`SuperAnnotate`  
+`H2O Label Genie`
+
+### Automation & Productivity
+`n8n`  
+`Excel`  
+`Google Sheets`
 
 ---
 
-## Tools & Platforms
-**Label Studio** | **CVAT** | **Roboflow Annotate** | **H2O Label Genie** | **SuperAnnotate**  
-**FL Studio** | **Audacity** | **Excel** | **Google Sheets**
+## Areas of Interest
+
+- Generative AI
+- Large Language Models (LLMs)
+- Multimodal AI Systems
+- Computer Vision
+- Speech Recognition
+- AI Safety & Reliability
+- Data-Centric AI
+- AI Evaluation Frameworks
 
 ---
 
 ## Languages
-**English** | **Hindi** | **Punjabi**
+
+- 🇬🇧 English — Fluent
+- 🇮🇳 Hindi — Fluent
+- 🇮🇳 Punjabi — Native
 
 ---
 
-## What Drives Me
-I’m passionate about **bridging the gap between raw data and intelligent AI systems**, ensuring that every dataset I touch is **accurate, consistent, and ready for scalable AI training**.  
-My mission: help AI models **see, hear, and understand** the world more effectively, one dataset at a time.
+## Currently Exploring
+
+- AI evaluation methodologies
+- LLM benchmarking
+- AI agent workflows
+- Data pipelines for machine learning
+- Automation for AI operations
+
+---
+
+## My Approach
+
+I believe high-quality AI starts with high-quality data.
+
+Whether it is evaluating model responses, improving datasets, or building better workflows, my focus is on creating reliable feedback loops that help AI systems become more accurate, safe, and effective.
 
 ---
 
@@ -51,4 +104,3 @@ My mission: help AI models **see, hear, and understand** the world more effectiv
 
 ---
 
-⭐️ *“Quality data is the foundation of intelligent AI.”*

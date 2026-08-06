@@ -1,5 +1,5 @@
 # Hi, I'm Karan Heera
-# I'm an AI Data & Evaluation Specialist
+##AI Generalist | LLM & Multimodal AI Evaluation | AI Quality Assurance | Generative AI | Speech AI | Computer Vision | AI Automation Engineer | Python | AWS • GCP • Azure
 
 ### Building better AI systems through data quality, evaluation, and human feedback
 

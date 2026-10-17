@@ -38,7 +38,7 @@ Strong background in full-stack development, backend systems, e-commerce, cloud 
 
 **Senior Software Engineer (LLM Evaluation & Repository Validation)**
 
-Evaluate LLM and coding-agent performance on real-world software engineering tasks using public GitHub repositories.
+Evaluated and benchmarked SOTA LLMs and coding agents through blind assessments across complex tasks and real-world GitHub repositories, analyzing performance, user experience, and output quality. Assessed end-to-end software engineering workflows, including codebase exploration, system design, implementation, debugging, testing, code review, refactoring, and security analysis, providing detailed qualitative rationales against global evaluation criteria to identify performance gaps and drive model improvement.
 
 - Analyze unfamiliar codebases, repository architecture, dependencies, and existing implementations.
 - Investigate software issues, reproduce failures, and independently reconstruct root causes.

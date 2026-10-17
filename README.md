@@ -3,9 +3,7 @@
 
 **LLM Evals | Coding Agent Evaluation | Repository-Level SWE Evaluation | AI-Generated Code | RCA & Test Validation**
 
-Senior Software Engineer specializing in human evaluation of AI-assisted software engineering and coding agents. Experienced in independently analyzing real-world GitHub repositories, understanding software issues, reconstructing root-cause analysis, evaluating AI-generated code and proposed fixes, assessing tests and verification, and identifying gaps in reasoning, implementation, and repository understanding.
-
-Strong background in full-stack development, backend systems, e-commerce, cloud infrastructure, automation, production operations, and technical leadership.
+Senior Software Engineer specializing in human evaluation of SOTA LLMs and AI-assisted software engineering. Experienced in evaluating coding agents on real-world GitHub repositories, analyzing software issues, reconstructing root-cause analysis, assessing AI-generated code, fixes, and tests, and identifying gaps in reasoning, implementation, and repository understanding. Skilled in benchmarking model performance through detailed qualitative rationales and end-to-end workflow assessments. Background in full-stack development, backend systems, ecommerce, cloud, automation, production operations, and technical leadership.
 
 ## AI & Software Engineering Evaluation
 
